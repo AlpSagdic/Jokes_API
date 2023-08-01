@@ -21,6 +21,8 @@ app.post("/", async (req, res) => {
     }
 });
 
+console.log("deneme2")
+
 app.listen(port, () => {
     console.log(`Server running on port: ${port}`);
 });

@@ -4,7 +4,7 @@
 
 *PLEASE CONTACT ME BEFORE USING!
 
-*This project is a joke site written using API
+*This project is a joke site written using API.
 
 *Continuing to be developed.
 
@@ -18,7 +18,7 @@
 
 *LÜTFEN KULLANMADAN ÖNCE BENİMLE İLETİŞİME GEÇİNİZ!
 
-*Bu proje API kullanılarak yazılmış bir şaka sitesidir
+*Bu proje API kullanılarak yazılmış bir şaka sitesidir.
 
 *Geliştirilmeye devam edilmektedir.
 
